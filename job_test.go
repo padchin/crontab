@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mileusna/crontab"
+	"github.com/padchin/crontab"
 )
 
 func TestJobError(t *testing.T) {

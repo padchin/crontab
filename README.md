@@ -1,10 +1,10 @@
-# Go/Golang package for Crontab tickers [![GoDoc](https://godoc.org/github.com/mileusna/crontab?status.svg)](https://godoc.org/github.com/mileusna/crontab)
+# Go/Golang package for Crontab tickers [![GoDoc](https://godoc.org/github.com/padchin/crontab?status.svg)](https://godoc.org/github.com/padchin/crontab)
 
 This package provides crontab tickers to golang apps, supporting crontab-like syntax like `* * * * *` or `*/2 * * * *` etc.
 
 ## Installation <a id="installation"></a>
 ```
-go get github.com/mileusna/crontab
+go get github.com/padchin/crontab
 ```
 
 ## Example<a id="example"></a>
@@ -16,7 +16,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/mileusna/crontab"
+    "github.com/padchin/crontab"
 )
 
 func main() {

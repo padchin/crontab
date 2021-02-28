@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mileusna/crontab"
+	"github.com/padchin/crontab"
 )
 
 func ExampleCrontab() {
