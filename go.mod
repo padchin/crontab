@@ -1,3 +1,3 @@
-module github.com/mileusna/crontab
+module github.com/padchin/crontab
 
 go 1.14
